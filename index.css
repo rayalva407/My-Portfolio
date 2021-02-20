@@ -15,9 +15,13 @@
 }
 
 .picture {
-  padding: 10px;
+  padding-top: 30px;
   width: 250px;
   height: 250px;
   border-radius: 60%;
   max-width: 20%;
+}
+
+body {
+  padding: 3%;
 }
